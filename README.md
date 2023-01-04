@@ -16,6 +16,10 @@ http://api.whatsapp.com/send?phone=5561992507595
 ##
 <br/>
 <div>
+  
+  <a href='http://github.com/henriquebarretodev'>
+   <img height='180em' src='http://github-readme-stats.vercel.app/api/top-langs/?username=henriquebarretodev&layout=compact&langs_count=16&theme=dracula'/>
+    
     
     
 </div>
