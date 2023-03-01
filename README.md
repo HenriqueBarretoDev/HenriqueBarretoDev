@@ -8,7 +8,7 @@ Atenciosamente
 
 Henrique <br/>
 ##
-Desenvolvedor/Freelancer<br/>
+Desenvolvedor/Front-end<br/>
 📲  Tel.:(61) 99250-7595<br/>
 ✉  E-mail: henriquebarreto@outlook.pt<br/>
 🔗  Link para WhatsApp:
